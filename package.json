@@ -5,14 +5,8 @@
   "dependencies": {
     "@material-ui/core": "^4.5.1",
     "@material-ui/icons": "^4.5.1",
-    "chart.js": "^2.9.3",
     "react": "^16.11.0",
-    "react-chartjs-2": "^2.8.0",
     "react-dom": "^16.11.0",
-    "react-fade-in": "^0.1.6",
-    "react-horizontal-scrolling-menu": "^0.7.3",
-    "react-loading": "^2.0.3",
-    "react-lottie": "^1.2.3",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
     "styled-components": "^5.1.0"
