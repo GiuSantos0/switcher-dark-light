@@ -30,6 +30,6 @@ legal e em pouco tempo, nada melhor do que uma landing-page para isso, certo? Du
 
 <p><i> Para utilizar esses comandos é necessario ter o node js ou o yarn instalado em sua maquina </i></p>
 
-#### Criado com 💜por <a href="http://giuliaferreira.web.app/">Giulia Santos</a>
+#### Criado com 💜 por <a href="http://giuliaferreira.web.app/">Giulia Santos</a>
 
 
