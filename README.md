@@ -16,7 +16,7 @@ legal e em pouco tempo, nada melhor do que uma landing-page para isso, certo? Du
 
 ### ✨Como funciona? 
 
-<img src="src/assets/gifdemonstrativo.gif" alt="gif demonstrativo"></img>
+<img src="src/assets/gifdemonstrativo_4.gif" alt="gif demonstrativo"></img>
 
 ### ✨Como inicializar na minha maquina?
 
