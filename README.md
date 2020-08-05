@@ -1,6 +1,6 @@
-## 🌙 LIVE CODING SWITCHER DE TEMA DARK/LIGHT MODE - EMPODERA TECH ☀️
+## 🌙 LIVE CODING SWITCHER DE TEMA DARK/LIGHT MODE  ☀️
 
-👩🏽‍💻 Repositório criado para o live-coding que fiz no canal da <b style="color: blue;"><a href='https://www.youtube.com/channel/UCQo6uyrWSGJpas1MvKZKThQ'> Empodera Tech</a></b>, segue o link para quem quiser ver:
+👩🏽‍💻 Repositório criado para o live-coding que apresentei no canal da <b style="color: blue;"><a href='https://www.youtube.com/channel/UCQo6uyrWSGJpas1MvKZKThQ'> Empodera Tech</a></b> e no GUFERS dia 05/08, segue o link para quem quiser ver:
 
 <a>https://www.youtube.com/watch?v=JFRM0XPu5RY&t=945s</a>
 
